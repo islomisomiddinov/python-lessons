@@ -1,5 +1,5 @@
 # 12.12.2021
-# 12-dars ERRORS
+# 12_dars_ERRORS
 
 # son = float(input("Juft son kiriting: "))
 # if son%2 != 0:
@@ -90,8 +90,8 @@
 #     print(f"Xush kelibsiz, {login}!")
 
 
-son = int(input("Istalgan butun son kiriting: "))
+# son = int(input("Istalgan butun son kiriting: "))
 
-for n in range(2,11):
-    if not (son%n):
-        print(f"{son} soni {n} ga qoldiqsiz bo'linadi")
+# for n in range(2,11):
+#     if not (son%n):
+#         print(f"{son} soni {n} ga qoldiqsiz bo'linadi")
