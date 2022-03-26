@@ -1,5 +1,5 @@
 # 12.12.2021
-# 12_dars_ERRORS
+# 12-dars_ERRORS
 
 # son = float(input("Juft son kiriting: "))
 # if son%2 != 0:
