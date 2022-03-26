@@ -1,5 +1,5 @@
 # 23.12.2021
-# 22-dars:    *args va **kwargs
+# 22-dars:     *args va **kwargs
 
 
 
