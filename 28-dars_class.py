@@ -33,3 +33,15 @@ talaba3 = Talaba('Sarvar', 'Yusupov', 1997)
         # AMALIYOT
         
         
+class User:
+    def __init__(self, ism, login, email, tel_raqam):
+        self.ism = ism
+        self.login = login
+        self.email = email
+        self.tel_raqam = tel_raqam
+        
+    def get_info(self):
+        return f"Foydalanuvchi logini: {self.login}, ismi: {self.ism}, \
+email: {self.email}, telefon raqami: {self.tel_raqam}"
+
+user1 = User('Komil Jumayev', 'komil_uzbek', 'komiluser@gmail.com', 909999997)
