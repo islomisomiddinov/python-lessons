@@ -1,8 +1,15 @@
-# 26.12.2021
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jul 29 14:52:28 2025
+
+@author: islomisomiddinov
+"""
+
 # 24-dars:    FUNKSIYALAR - SO'NGGI SO'Z
 
 
-import math
+# import math
 
 # def nom(argument):  # Nomli funksiyaning ko'rinishi
 #     return ifoda
