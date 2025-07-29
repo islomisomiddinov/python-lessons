@@ -30,7 +30,9 @@ talaba2 = Talaba('Fozil', 'Saidov', 2003)
 talaba3 = Talaba('Sarvar', 'Yusupov', 1997)
     
 
+
         # AMALIYOT
+
         
         
 class User:
