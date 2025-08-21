@@ -17,6 +17,7 @@ class Shaxs:
         info = f"{self.ism} {self.familiya}. "
         info += f"Passport: {self.passport}, {self.tyil}-yilda tug'ilgan."
         return info
+
     def get_age(self, yil):
         """Shaxsning yoshini qaytaruvchi funksiya"""
         return yil - self.tyil
