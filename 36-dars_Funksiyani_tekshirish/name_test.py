@@ -15,5 +15,8 @@ class NameTest(unittest.TestCase):
         name = get_full_name('umar', 'erkinov')
         self.assertEqual(name, 'Umar Erkinov')
         
+    def test_otasining_ismi(self):
+        name = get_full_name('umar', 'erkinov', 'akbarovich')
+        self.assertEqual(name, "Umar Akbarovich Erkinov")
         
 unittest.main()
